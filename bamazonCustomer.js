@@ -146,6 +146,8 @@ function sumPrice(quantity, price) {
 
 //Gives user option to continue shopping
 //------------------------------------------------------
+
+//*THIS FUNCTION WILL NOT RUN CORRECTLY*
 function wrapUp() {
 	inquirer
 	  .prompt([
