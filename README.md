@@ -1,4 +1,4 @@
-## #_Bamazon_ Inventory Management
+## _Bamazon_ Inventory Management
 
 ## Technologies Used
 * MySQL
