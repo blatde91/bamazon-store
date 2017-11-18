@@ -1,0 +1,28 @@
+{
+  "name": "bamazon-store",
+  "version": "1.0.0",
+  "description": "CLI that uses MySQL and Node to interact with a store's inventory",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blatde91/bamazon-store.git"
+  },
+  "keywords": [
+    "mySQL",
+    "Node"
+  ],
+  "author": "Daniel Blat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blatde91/bamazon-store/issues"
+  },
+  "homepage": "https://github.com/blatde91/bamazon-store#readme",
+  "dependencies": {
+    "console.table": "^0.9.1",
+    "inquirer": "^3.3.0",
+    "mysql": "^2.15.0"
+  }
+}
